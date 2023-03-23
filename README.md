@@ -35,3 +35,5 @@ The versions of the R packages are:
 - snow: ver. 0.4-4
 - CVXR: ver. 1.0-10
 - MegaLMM: ver. 0.1.0
+
+rstan may have troubles on R ver. 4.2 and later on Windows.
