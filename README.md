@@ -1,6 +1,5 @@
 # MetabolicModeling
-Bayesian models for predicting phenotypes based on metabolic networks
-
+##Bayesian models for predicting phenotypes based on metabolic networks
 These files are required to reproduce the results of the following paper:
 
   A Bayesian model for genomic prediction using metabolic networks
