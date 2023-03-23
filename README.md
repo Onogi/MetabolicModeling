@@ -6,7 +6,7 @@ The scripts and files here are required to reproduce the results of the followin
 	Akio Onogi
 	bioRxiv 2023.03.12.532311; doi: https://doi.org/10.1101/2023.03.12.532311
 
-The scripts require files provided at https://github.com/Hao-Tong/netGS/tree/master/netGS.
+To run the scripts, files provided at https://github.com/Hao-Tong/netGS/tree/master/netGS are required.
 
 The directory "/netGS" in the scripts need to include all files provided at the link.
 
