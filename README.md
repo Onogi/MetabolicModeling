@@ -12,7 +12,7 @@ The directory "/netGS" in the scripts need to include all files provided at the 
 
 The descriptions of files are as follows:
 
-- EditData.R
+- EditData.R  
   Create input files 
 - MetaboliteOrder.txt
 - TongH2020SupplementaryData2.csv
