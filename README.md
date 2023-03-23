@@ -7,10 +7,10 @@ The scripts and files here are required to reproduce the results of the followin
 	bioRxiv 2023.03.12.532311; doi: https://doi.org/10.1101/2023.03.12.532311
 
 The scripts require files provided at https://github.com/Hao-Tong/netGS/tree/master/netGS.
-The directory "/netGS" includes all files provided at the cite.
 
+The directory "/netGS" in the scripts need to include all files provided at the cite.
 
-The descriptions of files/scripts are as follows:
+The descriptions of files are as follows:
 
 - EditData.R
   Create input files 
