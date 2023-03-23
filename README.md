@@ -13,9 +13,11 @@ The directory "/netGS" in the scripts need to include all files provided at the 
 The descriptions of files are as follows:
 
 - EditData.R  
-	Create input files 
-- MetaboliteOrder.txt
-- TongH2020SupplementaryData2.csv
+	Create input files. This script should be run first.
+- MetaboliteOrder.txt  
+	The order of metabolites in the stoichiometry matrix of Tong et al. (2020) in that of Arnold et al. (2014).
+- TongH2020SupplementaryData2.csv  
+	Supplementary Data2 of Tong et al. (2020). Abbreviations of reactions were added by Onogi. The data of Tong et al. (2020) is distributed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 - CreateSimulation.R
 - Simulation1.R
 - CrossValidation1.R
