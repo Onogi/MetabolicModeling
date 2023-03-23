@@ -6,9 +6,14 @@ The scripts and files here are required to reproduce the results of the followin
 	Akio Onogi
 	bioRxiv 2023.03.12.532311; doi: https://doi.org/10.1101/2023.03.12.532311
 
-The descriptions of files/scripts are:
+The scripts require files provided at https://github.com/Hao-Tong/netGS/tree/master/netGS.
+The directory "/netGS" includes all files provided at the cite.
+
+
+The descriptions of files/scripts are as follows:
 
 - EditData.R
+  Create input files 
 - MetaboliteOrder.txt
 - TongH2020SupplementaryData2.csv
 - CreateSimulation.R
