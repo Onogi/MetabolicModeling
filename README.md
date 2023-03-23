@@ -27,7 +27,7 @@ The descriptions of files are as follows:
 - MetabolicModeling10rho.stan  
 	Stan scripts for the proposed Bayesian model.
 
-The versions of the R packages are:  
+The versions of R and R packages used are:  
 
 - R: ver. 4.1.3 on Windows and 4.2.2 on Ubuntu 18.04  
 - rstan: ver. 2.21.5 or 2.21.7
